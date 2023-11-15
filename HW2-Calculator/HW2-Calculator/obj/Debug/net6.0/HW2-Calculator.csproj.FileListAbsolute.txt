@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\bin\Debug\net6.0\HW2-Calculator.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\bin\Debug\net6.0\HW2-Calculator.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\bin\Debug\net6.0\HW2-Calculator.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\bin\Debug\net6.0\HW2-Calculator.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\bin\Debug\net6.0\HW2-Calculator.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\refint\HW2-Calculator.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\HW2-Calculator.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\code academy\HW2-Calculator\HW2-Calculator\obj\Debug\net6.0\ref\HW2-Calculator.dll
